@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a full time student at Allen High School (rising senior). 
 
 ## Research Interests
 
@@ -13,9 +13,10 @@ I am a Ph.D. student at ...
 
 ## Hobbies
 
-- Guitar
-- Tennis
-- Swimming
+- Piano
+- Volleyball
+- Basketball
+- Computer Science
 
 ## News
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
